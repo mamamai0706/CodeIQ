@@ -21,6 +21,7 @@ public class InputString {
 			input = 0;
 		}
 
+		return input;
 	}
 
 
